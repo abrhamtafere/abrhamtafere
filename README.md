@@ -1,16 +1,15 @@
-### Hi there 👋
+# Frontend Developer | ML Engineer
 
-<!--
-**abrhamtafere/abrhamtafere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Abrham Tafere
 
-Here are some ideas to get you started:
+🔭 Currently building intuitive user interfaces and exploring the world of Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Skills: React, Svelte, Python, node, mongodb, mysql TensorFlow.
+
+🌱 Always learning and staying up to date with the latest technologies.
+
+📫 tafereab@gmail.com
+
+🚀 Feel free to reach out for questions, collaborations, or just to say hi!
+
+Happy coding! 🌟
