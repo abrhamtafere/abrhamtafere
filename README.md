@@ -1,10 +1,8 @@
-# Frontend Developer | ML Engineer
+# Fulstac Developer | ML Enthusiastic
 
 👋 Hi, I'm Abrham Tafere
 
 🔭 Currently building intuitive user interfaces and exploring the world of Machine Learning.
-
-💼 Skills: React, Svelte, Python, node, mongodb, mysql TensorFlow.
 
 🌱 Always learning and staying up to date with the latest technologies.
 
