@@ -1,4 +1,4 @@
-# Fulstac Developer 
+# Full Stack Developer 
 
 👋 Hi, I'm Abrham Tafere
 
